@@ -1,2 +1,3 @@
-# Time-Mamba
-Official implementation for Time-Mamba
+# TimeMamba
+- Official implementation for TimeMamba
+- More Details Coming Soon!
